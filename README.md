@@ -28,3 +28,5 @@ available discounts
 4 0.300
 5 0.400
 6 0.200
+
+### I need further creating csv with df i gained and create
